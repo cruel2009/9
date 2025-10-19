@@ -42,9 +42,21 @@ window.addEventListener('load', () => {
 
 
 
-    const falling = [];
-
-    for (let k = 1; k <= 12; k++) falling.push("Anh (${k}).png");
+  const falling = [
+    "Anh (1).png",
+    "Anh (2).png",
+    "Anh (3).png",
+    "Anh (4).png",
+    "Anh (5).png",
+    "Anh (6).png",
+    "Anh (7).png",
+    "Anh (8).png",
+    "Anh (9).png",
+    "Anh (10).png",
+     "Anh (11).png",
+    "Anh (12).png"
+];
+// Bạn xóa (hoặc chú thích) vòng lặp 'for' đi.
 
 
 
